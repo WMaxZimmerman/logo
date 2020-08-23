@@ -1,0 +1,9 @@
+<div class="Background" width="500px" height="500px" >
+  <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="-100 -100 689.000000 742.000000"  preserveAspectRatio="xMidYMid meet">
+    <g id="Logo">
+      <polygon id="Z" class="letter" points="0,0 489,0 489,66 88,478 489,478 489,542 0,542 0,478 400,66 0,66"/>
+      <polygon id="W" class="letter" points="0,0 244,440 489,0 422,0 244,346 66,0"/>
+      <polygon id="M" class="letter" points="0,542 244,102  489,542 422,542 244,196 66,542"/>
+    </g>
+  </svg>
+</div>

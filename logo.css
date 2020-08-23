@@ -1,0 +1,12 @@
+.letter {
+  fill: black;
+  stroke: white;
+}
+
+.Background {
+  background-color: white;
+}
+
+.Inner {
+  fill: black;
+}
